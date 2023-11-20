@@ -1,0 +1,12 @@
+.line{
+    background-color: black;
+    margin:8px auto;
+    height: 6px;
+    width:100px;
+}
+#app{
+    background-color: deeppink;
+    }
+#app{
+    background-color: blueviolet;
+}
